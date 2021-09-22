@@ -1,4 +1,6 @@
-### Hi there, i'm William Lima 👋
+### Hi there 👋, i'm William Lima
+- 💻 Web developer living between love and hate with programing 
+- 📚 I'm currently learning Javascript
 <div>
   <a href="https://github.com/wlLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wlLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
